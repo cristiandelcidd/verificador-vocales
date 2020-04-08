@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+label {
+    font-size: 25px;
+    margin: 20px;
+    text-align: center;
+}
+
+#input {
+    height: 30px;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#btn {
+    height: 60px;
+    margin: 30px 0;
+    font-size: 30px;
+    width: 40%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#salida-texto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    font-size: 30px;
+    background-color: #9292926c;
+    width: 80%;
+    margin: 0 auto;
+}
